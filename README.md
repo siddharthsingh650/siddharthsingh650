@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Siddharth Singh.
 - 👀 I’m interested in Data Analytics.
-- 🌱 I’m currently learning powerbi
+- 🌱 I’m well versed in Power bi, Python, Excel, Mysql.
 - 💞️ I’m looking to collaborate with a company where i can show my skills and learn new things.
 - 📫 How to reach me
 - siddhsingh650@gmail.com
